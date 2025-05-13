@@ -1,0 +1,17 @@
+Subgroup,HR,Lower_CI,Upper_CI
+<65 years old,0.330,0.138,0.787
+>=65 years old,0.979,0.413,2.318
+Male,0.690,0.340,1.401
+Female,0.334,0.105,1.055
+Australia,0.698,0.268,1.814
+USA,0.503,0.233,1.090
+Stage IIIC,0.590,0.311,1.120
+Stage IV,1.032,0.107,9.930
+1 prior cancer surgery,0.388,0.150,1.002
+2 prior cancer surgeries,1.088,0.371,3.193
+>=3 prior cancer surgeries,0.300,0.084,1.074
+TMB-high,0.652,0.284,1.494
+Non-TMB-high,0.586,0.243,1.415
+PD-L1 positive,0.485,0.226,1.039
+PD-L1 negative,0.162,0.038,0.685
+PD-L1 indeterminate,1.496,0.037,6.041
